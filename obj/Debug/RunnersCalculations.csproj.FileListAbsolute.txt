@@ -3,3 +3,8 @@ F:\GitRepository\RunnersCalculations\RunnersCalculations\bin\Debug\RunnersCalcul
 F:\GitRepository\RunnersCalculations\RunnersCalculations\obj\Debug\RunnersCalculations.csprojResolveAssemblyReference.cache
 F:\GitRepository\RunnersCalculations\RunnersCalculations\obj\Debug\RunnersCalculations.dll
 F:\GitRepository\RunnersCalculations\RunnersCalculations\obj\Debug\RunnersCalculations.pdb
+F:\GitRepository\RunnersCalculations\bin\Debug\RunnersCalculations.dll
+F:\GitRepository\RunnersCalculations\bin\Debug\RunnersCalculations.pdb
+F:\GitRepository\RunnersCalculations\obj\Debug\RunnersCalculations.csprojResolveAssemblyReference.cache
+F:\GitRepository\RunnersCalculations\obj\Debug\RunnersCalculations.dll
+F:\GitRepository\RunnersCalculations\obj\Debug\RunnersCalculations.pdb
